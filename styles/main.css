@@ -3,7 +3,6 @@ body{
     padding: 0;
 }
 header {
-    
     box-shadow: 3px 3px 3px 3px #ccc;
     border-radius: 20px;
     padding: 10px;
@@ -33,7 +32,6 @@ header {
 
 nav ul {
     list-style-type: none;
-    
     display: flex;
     
 }
@@ -44,12 +42,8 @@ nav li {
     padding: 5px;
 }
 .navbox {
-    
-    
     border: 1px solid black;
     
-
-
 }
 .navbar {
     margin: 5px;
@@ -74,8 +68,6 @@ li a:link {
     padding: 10px;
     margin: 10px;
     
-   
-   
 }
 /* featured items row/carosel */
 .featured-items-box {
@@ -98,7 +90,6 @@ li a:link {
 .featured-items-title {
     font-size: x-large;
     text-align: center;
-    
     padding: 10px;
 }
 
@@ -151,7 +142,6 @@ li a:link {
     border: 1px solid rgb(71, 70, 70);
     margin: 3px;
     display: flex;
-
 
 }
 
